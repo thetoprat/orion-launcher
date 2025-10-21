@@ -1,1 +1,7 @@
-
+{
+  "modname": "Your Mod Name",
+  "modversion": "1.0.0",
+  "description": "A brief but clear description of what your mod does.",
+  "gameversion": "0.11.5",
+  "iconUrl": "assets/icon.png"
+}
